@@ -1,1 +1,0 @@
-# tally_khata_api
